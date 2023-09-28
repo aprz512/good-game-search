@@ -1,0 +1,38 @@
+:authority:
+www.gamer520.com
+:method:
+GET
+:path:
+/pcgame/page/2?order=hot
+:scheme:
+https
+Accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:
+gzip, deflate, br
+Accept-Language:
+zh-CN,zh;q=0.9
+Cache-Control:
+max-age=0
+Cookie:
+PHPSESSID=v8c6aagqo9fjcrm52ga5ih9afb; cf_clearance=Cdj0SwB_4kByKBif62AK0P1B0nYaHDlP4e7.xylU3_U-1695910198-0-1-5801d1a0.88508328.f008e40-0.2.1695910198; _ga=GA1.1.1927702210.1695910202; cao_notice_cookie=1; _ga_MB6TSGCTV9=GS1.1.1695910202.1.1.1695911582.0.0.0
+Referer:
+https://www.gamer520.com/pcgame?order=hot
+Sec-Ch-Ua:
+"Google Chrome";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"Windows"
+Sec-Fetch-Dest:
+document
+Sec-Fetch-Mode:
+navigate
+Sec-Fetch-Site:
+same-origin
+Sec-Fetch-User:
+?1
+Upgrade-Insecure-Requests:
+1
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
